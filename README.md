@@ -1,3 +1,7 @@
 # democode
-lol nothing -F-
- author - arsh chandra
+lol nothing 
+- author - arsh chandra
+- working on website
+
+
+
