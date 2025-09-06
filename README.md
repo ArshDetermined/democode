@@ -1,3 +1,3 @@
 # democode
-lol nothing
-author - arsh chandra
+lol nothing -F-
+ author - arsh chandra
